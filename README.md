@@ -77,6 +77,7 @@ Banco de Dados
 	Bootcamp Programador(a) de Software Iniciante
 	Bootcamp Gestor(a) de processos de Negocios
 
+
 ** Estacio de Sa **
 	Utilizando Ferramentas de Analise Estrategica - https://atividadeacademicacomplementar.webaula.com.br/Portal/Modules/Certified/checkCertified.asp?AT=4E42253D204EB1F198C2C03503325F6454
 
