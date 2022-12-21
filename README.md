@@ -1,9 +1,11 @@
 # Certificados
 Aqui estao meus certificados separados por tecnologia e instituicao, de maneira a facilitar a pesquisa e validacao.
 
+
 ** DIGITAL INNOVATION ONE **
 
 	Introducao ao Git e ao GitHub - https://www.dio.me/certificate/D8EA6F9A
+
 
 Programacao Essencial
 	Logica de Programacao Essencial - https://www.dio.me/certificate/E29C0329
@@ -73,9 +75,11 @@ Banco de Dados
 	Introducao a PostgreSQL - https://www.dio.me/certificate/64661FB1
 
 
+
 ** IGTI - INSTITUICAO DE GESTAO E TECNOLOGIA DA INFORMACAO **
 	Bootcamp Programador(a) de Software Iniciante
 	Bootcamp Gestor(a) de processos de Negocios
+
 
 
 ** Estacio de Sa **
